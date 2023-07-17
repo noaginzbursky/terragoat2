@@ -2,6 +2,8 @@
 **/.terraform/*
 .idea
 
+
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
